@@ -2,7 +2,7 @@ package models;
 
 import java.beans.PropertyChangeSupport;
 import java.math.BigDecimal;
-
+/*Kaixo Jorge Naiz*/
 /**
  * Clase que contiene los atributos de un Usuario.
  * @author Alejandro Escobedo, Erik Zubia
